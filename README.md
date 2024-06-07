@@ -11,8 +11,8 @@ I'm a passionate programmer with experience in a variety of languages including 
 
 ## 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myuser&layout=compact)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=myuser&show_icons=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rukadabra&layout=compact)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=rukadabra&show_icons=true&count_private=true)
 
 ### Weekly Development Breakdown
 <!--START_SECTION:waka-->
