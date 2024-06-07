@@ -1,5 +1,5 @@
 
-# Hello, I'm [Your Name]! 👋
+# Hello, I'm Gede Krisna! 👋
 
 I'm a passionate programmer with experience in a variety of languages including TypeScript, JavaScript, and C#. I enjoy solving problems and building applications that make a difference. While I work with many languages, you'll primarily find repositories here with projects written in JavaScript, TypeScript, and C#.
 
