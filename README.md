@@ -26,7 +26,7 @@ Since November 2020 I have built the sales system, staff portal, and investor po
 
 ## GitHub stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=rukadabra&show_icons=true&count_private=true)
+![GitHub stats](https://github-stats-extended.vercel.app/api?username=rukadabra&show_icons=true)
 
 [![](https://raw.githubusercontent.com/rukadabra/rukadabra/master/profile-summary-card-output/react/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/rukadabra/rukadabra/master/profile-summary-card-output/react/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/rukadabra/rukadabra/master/profile-summary-card-output/react/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
