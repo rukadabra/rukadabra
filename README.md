@@ -14,7 +14,7 @@ TypeScript · JavaScript · PHP · HTML · CSS
 
 ### Coding time
 
-Wakapi started recording this week.
+Wakapi started recording from November 13, 2026.
 
 [![today](https://waka.gproject.dev/api/badge/ru_kadabra/interval:today?label=today&color=2F855A)](https://waka.gproject.dev) [![30 days](https://waka.gproject.dev/api/badge/ru_kadabra/interval:30_days?label=30%20days&color=2F855A)](https://waka.gproject.dev) [![all time](https://waka.gproject.dev/api/badge/ru_kadabra/interval:all_time?label=all%20time&color=2F855A)](https://waka.gproject.dev)
 
