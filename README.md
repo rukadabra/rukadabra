@@ -2,7 +2,7 @@
 
 <img src="assets/iris-desk.png" align="right" width="340" alt="Iris at a desk">
 
-Full-stack engineer in Tabanan, Bali. Buyers see the page. Payment and reports run behind it.
+Full-stack engineer in Tabanan, Bali.
 
 One system for several property brands, including sites that can wear another brand. Also invitations, cameras, and networks.
 
