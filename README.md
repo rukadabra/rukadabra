@@ -1,27 +1,42 @@
+# Gede Krisna
 
-# Hello, I'm Gede Krisna! 👋
+Full-stack engineer in Tabanan, Bali. Buyers see the page. Payment and reports run behind it.
 
-I'm a passionate programmer with experience in a variety of languages including TypeScript, JavaScript, and C#. I enjoy solving problems and building applications that make a difference. While I work with many languages, you'll primarily find repositories here with projects written in JavaScript, TypeScript, and C#.
+One system for several property brands, including sites that can wear another brand. Also invitations, cameras, and networks.
 
-## 🛠️ Languages and Tools
+[gproject.dev](https://gproject.dev) · [CV](https://gproject.dev/en/cv)
 
-- **Languages:** TypeScript, JavaScript, C#, and many more.
-- **Frameworks & Libraries:** React, Node.js, .NET, Express, etc.
-- **Tools:** Git, Docker, VS Code, Visual Studio, etc.
+## Work
 
-## 📊 GitHub Stats
+**Multi-brand property commerce.** A buyer picks a property, pays for one unit or several at once, then sees the payment status. The same pattern serves several brands, including Prop Market. Next.js · TypeScript · payments
+
+**Digital invitations.** A guest gets a link, opens the invitation on a phone, and confirms attendance there. Next.js · TypeScript · Tailwind
+
+**CCTV monitoring.** Several cameras are watched from the browser. A dropped picture comes back, and a camera that stays off raises a reminder. NestJS · Docker · TypeScript
+
+**Network device operations.** The network can be read from the browser: the backup internet line, how the load is split, and whether the security state looks wrong. Go · PostgreSQL · Next.js
+
+Since November 2020 I have built the sales system, staff portal, and investor portal at [PT Geonet Properties International](https://geonet.properties).
+
+## Languages and tools
+
+**Languages:** TypeScript, JavaScript, Go, PHP, HTML, CSS
+
+**Technologies:** React, Next.js, Tailwind CSS, NestJS, PostgreSQL, MongoDB, Firebase, Zod, Docker, Turborepo
+
+## GitHub stats
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rukadabra&show_icons=true&count_private=true)
+
 [![](https://raw.githubusercontent.com/rukadabra/rukadabra/master/profile-summary-card-output/react/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/rukadabra/rukadabra/master/profile-summary-card-output/react/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/rukadabra/rukadabra/master/profile-summary-card-output/react/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/rukadabra/rukadabra/master/profile-summary-card-output/react/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/rukadabra/rukadabra/master/profile-summary-card-output/react/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-### Weekly Development Breakdown
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+## Contact
 
-## 📫 How to Reach Me
+Open to full-stack roles and contracts.
 
+- **Site:** [gproject.dev](https://gproject.dev)
 - **Email:** [leakmean@gmail.com](mailto:leakmean@gmail.com)
-- **LinkedIn:** [Gede Krisna](https://www.linkedin.com/in/gede-krisna-832b35211/)
-
-Thanks for stopping by! Feel free to explore my repositories and get in touch if you'd like to collaborate.
+- **WhatsApp:** [+62 878-6209-2285](https://wa.me/6287862092285)
+- **LinkedIn:** [Gede Krisna](https://www.linkedin.com/in/gede-krisna)
