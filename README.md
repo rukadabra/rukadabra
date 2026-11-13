@@ -7,11 +7,7 @@ Full-stack engineer in Tabanan, Bali.
 I build the software around a property sale: what the buyer uses, what the staff use, and what investors open. Invitations, cameras, and network devices are part of the same work.
 
 At [PT Geonet Properties International](https://geonet.properties) since November 2020.
-
-TypeScript · JavaScript · PHP · HTML · CSS
-
-<br clear="right">
-
+ 
 ### Coding time
 
 Wakapi started recording from November 13, 2026.
