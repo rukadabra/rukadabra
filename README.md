@@ -32,18 +32,17 @@ Wakapi since 13 Nov 2026.
 
 <p align="center">
   <a href="https://waka.gproject.dev">
-    <img alt="Coding time" src="https://stats.gproject.dev/api/wakatime?username=ru_kadabra&api_domain=waka.gproject.dev&custom_title=Coding%20time&layout=timesheet&langs_count=8&display_format=percent&hide=Markdown,Text,Unknown,INI&card_width=680&image_url=https%3A%2F%2Firis.gproject.dev%2F_next%2Fimage%3Furl%3D%252Fassets%252Fimages%252Firis-desk-phone.png%26w%3D640%26q%3D75&image_pos=background&image_size=20&image_shape=rect&image_opacity=0.35&theme=calm_pink&cache_seconds=1800" />
+    <img width="680" alt="Coding time" src="assets/coding-time.svg" />
   </a>
 </p>
 
 ### GitHub
 
-<!-- No image_url here: GitHub Camo times out (~4s) when /api embeds the Iris background. -->
 <p align="center">
   <a href="https://github.com/rukadabra">
-    <img align="center" height="165" alt="GitHub Stats" src="https://stats.gproject.dev/api?username=rukadabra&rank_icon=percentile&custom_title=Stats&show_icons=true&include_all_commits=true&card_width=360&theme=calm_pink&cache_seconds=1800" />
+    <img align="center" alt="GitHub Stats" src="assets/github-stats.svg" />
   </a>
   <a href="https://github.com/rukadabra">
-    <img align="center" height="165" alt="Top Languages" src="https://stats.gproject.dev/api/top-langs?username=rukadabra&layout=compact&langs_count=6&card_width=300&theme=calm_pink&cache_seconds=1800" />
+    <img align="center" alt="Top Languages" src="assets/top-langs.svg" />
   </a>
 </p>
