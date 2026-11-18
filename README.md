@@ -38,7 +38,12 @@ Wakapi since 13 Nov 2026.
 
 ### GitHub
 
+<!-- No image_url here: GitHub Camo times out (~4s) when /api embeds the Iris background. -->
 <p align="center">
-  <img alt="GitHub Stats" src="https://stats.gproject.dev/api?username=rukadabra&rank_icon=percentile&custom_title=Stats&show_icons=true&include_all_commits=true&card_width=360&image_url=https%3A%2F%2Firis.gproject.dev%2F_next%2Fimage%3Furl%3D%252Fassets%252Fimages%252Firis-desk-phone.png%26w%3D640%26q%3D75&image_pos=background&image_size=20&image_opacity=0.3&theme=calm_pink&cache_seconds=1800" />
-  <img alt="Top Languages" src="https://stats.gproject.dev/api/top-langs?username=rukadabra&layout=compact&langs_count=6&card_width=300&image_url=https%3A%2F%2Firis.gproject.dev%2F_next%2Fimage%3Furl%3D%252Fassets%252Fimages%252Firis-desk-phone.png%26w%3D640%26q%3D75&image_pos=background&image_opacity=0.28&theme=calm_pink&cache_seconds=1800" />
+  <a href="https://github.com/rukadabra">
+    <img align="center" height="165" alt="GitHub Stats" src="https://stats.gproject.dev/api?username=rukadabra&rank_icon=percentile&custom_title=Stats&show_icons=true&include_all_commits=true&card_width=360&theme=calm_pink&cache_seconds=1800" />
+  </a>
+  <a href="https://github.com/rukadabra">
+    <img align="center" height="165" alt="Top Languages" src="https://stats.gproject.dev/api/top-langs?username=rukadabra&layout=compact&langs_count=6&card_width=300&theme=calm_pink&cache_seconds=1800" />
+  </a>
 </p>
