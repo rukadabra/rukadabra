@@ -32,13 +32,13 @@ Wakapi since 13 Nov 2026.
 
 <p align="center">
   <a href="https://waka.gproject.dev">
-    <img alt="Coding time" src="https://stats.gproject.dev/api/wakatime?username=ru_kadabra&api_domain=waka.gproject.dev&custom_title=Coding%20time&layout=timesheet&langs_count=8&display_format=percent&hide=Markdown,Text,Unknown,INI&card_width=680&image_url=https%3A%2F%2Firis.gproject.dev%2Fassets%2Fimages%2Firis-desk-phone.png&image_pos=background&image_size=20&image_shape=rect&image_opacity=0.35&theme=calm_pink&cache_seconds=1800" />
+    <img alt="Coding time" src="https://stats.gproject.dev/api/wakatime?username=ru_kadabra&api_domain=waka.gproject.dev&custom_title=Coding%20time&layout=timesheet&langs_count=8&display_format=percent&hide=Markdown,Text,Unknown,INI&card_width=680&image_url=https%3A%2F%2Firis.gproject.dev%2F_next%2Fimage%3Furl%3D%252Fassets%252Fimages%252Firis-desk-phone.png%26w%3D640%26q%3D75&image_pos=background&image_size=20&image_shape=rect&image_opacity=0.35&theme=calm_pink&cache_seconds=1800" />
   </a>
 </p>
 
 ### GitHub
 
 <p align="center">
-  <img alt="GitHub Stats" src="https://stats.gproject.dev/api?username=rukadabra&rank_icon=percentile&custom_title=Stats&show_icons=true&include_all_commits=true&card_width=360&image_url=https%3A%2F%2Firis.gproject.dev%2Fassets%2Fimages%2Firis-desk-phone.png&image_pos=background&image_size=20&image_opacity=0.3&theme=calm_pink&cache_seconds=1800" />
-  <img alt="Top Languages" src="https://stats.gproject.dev/api/top-langs?username=rukadabra&layout=compact&langs_count=6&card_width=300&image_url=https%3A%2F%2Firis.gproject.dev%2Fassets%2Fimages%2Firis-desk-phone.png&image_pos=background&image_opacity=0.28&theme=calm_pink&cache_seconds=1800" />
+  <img alt="GitHub Stats" src="https://stats.gproject.dev/api?username=rukadabra&rank_icon=percentile&custom_title=Stats&show_icons=true&include_all_commits=true&card_width=360&image_url=https%3A%2F%2Firis.gproject.dev%2F_next%2Fimage%3Furl%3D%252Fassets%252Fimages%252Firis-desk-phone.png%26w%3D640%26q%3D75&image_pos=background&image_size=20&image_opacity=0.3&theme=calm_pink&cache_seconds=1800" />
+  <img alt="Top Languages" src="https://stats.gproject.dev/api/top-langs?username=rukadabra&layout=compact&langs_count=6&card_width=300&image_url=https%3A%2F%2Firis.gproject.dev%2F_next%2Fimage%3Furl%3D%252Fassets%252Fimages%252Firis-desk-phone.png%26w%3D640%26q%3D75&image_pos=background&image_opacity=0.28&theme=calm_pink&cache_seconds=1800" />
 </p>
